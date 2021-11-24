@@ -18,7 +18,7 @@
     "react-geocode": "^0.2.3",
     "react-icons": "^4.2.0",
     "react-map-gl": "^6.1.17",
-    "react-toastify": "^8.0.3"
+    "react-toastify": "^8.1.0"
   },
   "devDependencies": {
     "eslint": "7.32.0",
